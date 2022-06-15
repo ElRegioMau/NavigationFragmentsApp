@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "465131441210",
+    "project_id": "navigationfragmentsapp",
+    "storage_bucket": "navigationfragmentsapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465131441210:android:2a78aefaa12f07bf4df903",
+        "android_client_info": {
+          "package_name": "com.example.navigationfragmentsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465131441210-ha0uttc5tenm7hdbjd1vpe7fui3qt0gf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnImjNkdZ4mQyIzt5Oth7_36pXXgqiO2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465131441210-ha0uttc5tenm7hdbjd1vpe7fui3qt0gf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
